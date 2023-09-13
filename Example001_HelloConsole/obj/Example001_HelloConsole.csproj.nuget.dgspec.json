@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "c:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "c:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\olgam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\olgam\\OneDrive\\Documentos\\examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olgam\\AppData\\Roaming\\NuGet\\NuGet.Config"
